@@ -21,7 +21,9 @@
 
 // ________________ 2. delete a element in an array ? _________________________
 
-
+    // delte the ith element in an array ? darr[i-1]
+    // delete the element whose value is 76? 
+    // let index = arr.indexOf(76);
     
     // arr.pop() => constant time but it will last element of array 
 
