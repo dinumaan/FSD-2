@@ -1,4 +1,4 @@
-// Today's problem-solving session covered basic problem-solving on Conditional Statements and Loops.
+// Today's problem-solving session covered Array Data Structure and basic problem-solving on Conditional Statements and Loops.
 
 let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 // q, 1. how do we itrate through an array ?

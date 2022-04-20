@@ -1,3 +1,5 @@
+// Today's problem-solving session covered Array Data Structure and basic problem-solving on Conditional Statements and Loops.
+
 // 3. how to update an element in array ?
 
 let arr = [20, 34, 56, 76, 89, 69, 43, 76]

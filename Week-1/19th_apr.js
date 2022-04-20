@@ -1,3 +1,5 @@
+// Today's problem-solving session covered Array Data Structure and basic problem-solving on Conditional Statements and Loops.
+
 /* ______________ what is data structure? _________________________ */
 
 // array ? => collection of data => data type should be same type
