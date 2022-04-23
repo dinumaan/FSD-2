@@ -28,6 +28,7 @@
 // func(45)
 
 // Q 3
+
 const obj5 = { 
     realname: "Ram", 
     country: "India", 
@@ -53,7 +54,7 @@ kool1.behaveiour = "cool"
 // }
 
 // for(let i in kool1){
-//     console.log(kool1[i]);
+//     
 // }
 
 // cost => 
