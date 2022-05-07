@@ -176,16 +176,16 @@ let student1 = {
 //     return student;
 // }
 
-let FunctionStore = {
+// let FunctionStore = {
 
-    incrementScore: function() {
-        this.score++;
-    },
+//     incrementScore: function() {
+//         this.score++;
+//     },
 
-    incrementClass: function(){
-        this.Class++;
-    }
-}
+//     incrementClass: function(){
+//         this.Class++;
+//     }
+// }
 
 // let student3 = CreateEntry("meleena", "FSD2", 0);
 
