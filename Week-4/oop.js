@@ -265,7 +265,7 @@ let students = [];
         -- yes with the help of class keyword we can do this
         
     
-    So we can see class in javaScript is just a 'Syntactic Sugar' that aloow to put our methods and propery together 
+    So we can see class in javaScript is just a 'Syntactic Sugar' that allow to put our methods and propery together 
 
 */
 
