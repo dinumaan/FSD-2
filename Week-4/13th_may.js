@@ -50,14 +50,14 @@
 // }
 
 
-var isValid = function(s) {
-    // if(s[0])
+// var isValid = function(s) {
+//     // if(s[0])
     
-    console.log(s[0]);
+//     console.log(s[0]);
     
-};
+// };
 
-isValid("(){}");
+// isValid("(){}");
 
 
 // ()[]{}
@@ -77,3 +77,25 @@ isValid("(){}");
 // .......(
 // .......{
 // .......[
+
+'use strict'
+
+// let s = "dinesh";
+
+// let anotherString = s;
+
+// console.log(s);
+let cnt = 0;
+
+function giveSomeUsefulName(s){
+
+    // other code is there
+    // let arr1 = [...arr];
+
+    // make changes in arr1
+}
+
+
+
+
+
