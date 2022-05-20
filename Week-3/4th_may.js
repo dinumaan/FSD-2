@@ -13,6 +13,7 @@
 // }
 
 // multiplyBy2();
+
 function outerFunction(){
     let counter = 1;
     function innerFunction(){
